@@ -125,5 +125,59 @@ children:
   - /guides
   - /release-notes
   - /all-releases
----
+---[
+
+    {
+
+        "id": "giong-nu",
+
+        "name": "Giong nu",
+
+        "description": "system",
+
+        "voiceType": "system",
+
+        "isDefault": false,
+
+        "isActive": true,
+
+        "orgId": "5cfc8bee087e5f035b2cbabf",
+
+        "createdBy": {
+
+            "userId": "5eb4c4967a647222d551b7ce",
+
+            "orgId": "5cfc8bee087e5f035b2cbabf"
+
+        },
+
+        "createdAt": "2020-06-24T10:48:26.474Z",
+
+        "updatedAt": "2020-06-28T02:35:26.708Z",
+
+    },
+
+    {
+
+        "id": "giong-theo-yeu cau",
+
+        "name": "giọng theo yêu cầu",
+
+        "description": "giọng theo yêu cầu",
+
+        "voiceType": "user",
+
+        "isDefault": true,
+
+        "isActive": true,
+
+        "orgId": "5cfc8bee087e5f035b2abcd",
+
+        "createdBy": {
+
+            "userId": "5eb4c4967a647222d551b7ce",
+
+            "orgId": "5cfc8bee087e5f035b2cbabf"
+
+        },
 
